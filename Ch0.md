@@ -6,7 +6,11 @@ SPSS是什么？为什么要用它？什么人需要用它？什么时候会用�
 <p>SPSS原意是“社会学统计软件包”（Statistical Package for Social Science），后更改为“统计产品与服务解决方案”（Statistical Product and Service Solution）。</p>
 
 # <h2>SPSS特点</h2>
+<li>操作简单</li>
+<li>功能强大</li>
+<li>入门容易，深入困难</li>
 
 # <h2>SPSS应用</h2>
+医学、金融等
 
 # <h2>参考资料</h2>
